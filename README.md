@@ -5,7 +5,7 @@ I'm a Computer Science student at King Saud University with a strong interest in
 ## About Me
 
 - 🎓 B.Sc. Computer Science, King Saud University 
-- 🤖 Interests: AI, NLP, machine learning, data science.
+- 🤖 Interests: AI, NLP, machine learning, data science, and computer vision.
 - 💻 Languages: Python, Java, C, SQL
 - 🧰 Tools & Libraries: PyTorch, scikit-learn, pandas, NumPy, Matplotlib, Seaborn
 
